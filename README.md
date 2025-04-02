@@ -1,4 +1,4 @@
-# cursor_ai_project
+# Cursor_ai_project
 --
 ### **What is Cursor AI?** 🤖✨  
 
